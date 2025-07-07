@@ -4,3 +4,4 @@ published: false
 price: 0
 chapters:
   - "91ca97"
+allow_override: true
