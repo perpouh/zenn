@@ -82,6 +82,7 @@ const [scrollY, setScrollY] = useState(window.scrollY);
 
 自作ライブラリにして社内導入
 
+## 💭 寸感
 ## 💬 今後の展望・課題
 今後追加したい機能
 
